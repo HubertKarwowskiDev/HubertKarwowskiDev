@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.8.3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1193" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,40 +168,40 @@
         <mxCell id="TTwZ3pE_9iWZmGFRp8Mx-67" value="COMING IN THE FUTURE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4165" y="218" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="utGty1Iy4-QN_SOfobU6-1" value="TOOLS:&lt;div&gt;NEXTJS&lt;/div&gt;&lt;div&gt;SHADCN&lt;/div&gt;&lt;div&gt;SANITY&lt;/div&gt;&lt;div&gt;PRZELEWY24/SHOPIFY/STRIPE/WIX&lt;/div&gt;&lt;div&gt;FORMSPREE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="utGty1Iy4-QN_SOfobU6-1" value="TOOLS:&lt;div&gt;NEXTJS&lt;/div&gt;&lt;div&gt;SHADCN&lt;/div&gt;&lt;div&gt;SANITY&lt;/div&gt;&lt;div&gt;FORMSPREE&lt;/div&gt;&lt;div&gt;NEXTAUTH&lt;/div&gt;&lt;div&gt;STRIPE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="720" width="460" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sPp5e6il-G7rp5Sln5nA-1" target="sPp5e6il-G7rp5Sln5nA-6">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sPp5e6il-G7rp5Sln5nA-1" target="sPp5e6il-G7rp5Sln5nA-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sPp5e6il-G7rp5Sln5nA-1" target="sPp5e6il-G7rp5Sln5nA-14">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sPp5e6il-G7rp5Sln5nA-1" target="sPp5e6il-G7rp5Sln5nA-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-1" value="polish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-1" value="polish" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sPp5e6il-G7rp5Sln5nA-6" target="sPp5e6il-G7rp5Sln5nA-8">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sPp5e6il-G7rp5Sln5nA-6" target="sPp5e6il-G7rp5Sln5nA-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-6" value="blog/[id] with lng param" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-6" value="blog/[id] with lng param" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sPp5e6il-G7rp5Sln5nA-8" target="sPp5e6il-G7rp5Sln5nA-10">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sPp5e6il-G7rp5Sln5nA-8" target="sPp5e6il-G7rp5Sln5nA-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-8" value="blog/eng&lt;br&gt;/&lt;br&gt;blog/pl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-8" value="blog/eng&lt;br&gt;/&lt;br&gt;blog/pl" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sPp5e6il-G7rp5Sln5nA-10" target="sPp5e6il-G7rp5Sln5nA-12">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sPp5e6il-G7rp5Sln5nA-10" target="sPp5e6il-G7rp5Sln5nA-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-10" value="switch during blog&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-10" value="switch during blog&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-12" value="refresh page, call other api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-12" value="refresh page, call other api" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPp5e6il-G7rp5Sln5nA-14" value="all pages will be statically translated, only blog is handled dynamically" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPp5e6il-G7rp5Sln5nA-14" value="all pages will be statically translated, only blog is handled dynamically" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
